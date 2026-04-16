@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\SEMANA3JP\ejecicio 4\ejecicio 4\bin\Debug\ejecicio 4.exe.config
+C:\Users\UPN\Desktop\SEMANA3JP\ejecicio 4\ejecicio 4\bin\Debug\ejecicio 4.exe
+C:\Users\UPN\Desktop\SEMANA3JP\ejecicio 4\ejecicio 4\bin\Debug\ejecicio 4.pdb
+C:\Users\UPN\Desktop\SEMANA3JP\ejecicio 4\ejecicio 4\obj\Debug\ejecicio 4.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\SEMANA3JP\ejecicio 4\ejecicio 4\obj\Debug\ejecicio 4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\SEMANA3JP\ejecicio 4\ejecicio 4\obj\Debug\ejecicio 4.exe
+C:\Users\UPN\Desktop\SEMANA3JP\ejecicio 4\ejecicio 4\obj\Debug\ejecicio 4.pdb

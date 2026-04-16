@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\TAREA\TAREA02\TAREA02\obj\Debug\TAREA02.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\TAREA\TAREA02\TAREA02\obj\Debug\TAREA02.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\TAREA\TAREA02\TAREA02\bin\Debug\TAREA02.exe.config
+C:\Users\UPN\Documents\TAREA\TAREA02\TAREA02\bin\Debug\TAREA02.exe
+C:\Users\UPN\Documents\TAREA\TAREA02\TAREA02\bin\Debug\TAREA02.pdb
+C:\Users\UPN\Documents\TAREA\TAREA02\TAREA02\obj\Debug\TAREA02.exe
+C:\Users\UPN\Documents\TAREA\TAREA02\TAREA02\obj\Debug\TAREA02.pdb
